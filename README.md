@@ -7,7 +7,7 @@ Where cash is being spent
 Monthly cash flow performance
 Department-wise and category-wise impact on cash flow
 
-# 🎯 Business Objectives
+## 🎯 Business Objectives
 
 Monitor Total Inflow and Total Outflow
 Calculate Net Cash Flow and Ending Balance
@@ -19,19 +19,17 @@ Department
 Month
 Enable interactive filtering for better decision-making
 
-# 🧰 Tools & Technologies Used
+## 🧰 Tools & Technologies Used
 
 Power BI Desktop
 Microsoft Excel (Data source)
 DAX Measures
 
-# 🧠 Key Insights
+## 🧠 Key Insights
 
 Operating activities contribute the highest cash movement
 Salary payments and software subscriptions are major outflow drivers
 Cash flow dips in specific months indicate expense-heavy periods
 Strong inflow consistency improves ending balance stability
-
 Data Modeling (Star Schema)
-
 Interactive Slicers
